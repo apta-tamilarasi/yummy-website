@@ -21,7 +21,7 @@ class Book extends Component {
                 <div className='bookrow'>
 
                     <div className='bookcol1'>
-                        <img src={re} />
+                        <img src={re}  alt='loading'/>
 
                     </div>
 

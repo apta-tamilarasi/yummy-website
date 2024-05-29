@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 import './About.scss'
 
-import res from '../../image/res.jpg'
+// import res from '../../image/res.jpg'
 
 import res1 from '../../image/res1.jpg'
 
@@ -79,7 +79,7 @@ class About extends Component {
 
                         <div id='aboutcol2-img'>
                             <div id='about-img'>
-                                <img src={res1} />
+                                <img src={res1} alt='loading'/>
                             </div>
                             <div id='play'>
                                 <div id='aboutplay'>

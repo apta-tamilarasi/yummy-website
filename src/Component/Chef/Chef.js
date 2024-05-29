@@ -77,7 +77,7 @@ const Chef = () => {
                                 return <div className="chefcards" key={b}>
 
                                     <div className="chefimg">
-                                        <img src={a.image} />
+                                        <img src={a.image}  alt='loading'/>
                                     </div>
 
                                     <div className="cheficon">
@@ -88,7 +88,7 @@ const Chef = () => {
                                     </div>
 
                                     <div className="chefcover">
-                                        <img src={cover} />
+                                        <img src={cover}  alt='loading'/>
                                     </div>
 
                                     <div className="detail">

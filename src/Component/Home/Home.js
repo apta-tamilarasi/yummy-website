@@ -14,7 +14,7 @@ class Home extends Component {
                 <div className='homerow'>
 
                     <div className='homecol3'>
-                        <img src={food} />
+                        <img src={food}  alt='loading'/>
                     </div>
 
                     <div className='homecol1'>
@@ -53,7 +53,7 @@ class Home extends Component {
                     </div>
 
                     <div className='homecol2'>
-                        <img src={food} />
+                        <img src={food}  alt='loading'/>
 
                     </div>
 

@@ -89,15 +89,15 @@ const Menu = () => {
                     </div>
 
                     <div id='break'>
-                        <a>Breakfast</a>
+                        <a href='#'>Breakfast</a>
                     </div>
 
                     <div id='lunch' >
-                        <a>Lunch</a>
+                        <a href='#'>Lunch</a>
                     </div>
 
                     <div id='dinner'>
-                        <a>Dinner</a>
+                        <a href='#'>Dinner</a>
                     </div>
                 </div>
 
@@ -134,7 +134,7 @@ const Menu = () => {
                             <div className='menucard' key={i}>
 
                                 <div>
-                                    <img src={a.src} />
+                                    <img src={a.src}  alt='loading'/>
                                 </div>
 
                                 <h3>

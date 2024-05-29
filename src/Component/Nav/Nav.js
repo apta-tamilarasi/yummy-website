@@ -18,61 +18,61 @@ const Nav = () => {
 
                 <div className='navcol2'>
                     <div>
-                        <a id='home'>
+                        <a href='#' id='home'>
                             Home
                         </a>
                     </div>
 
                     <div>
-                        <a>
+                        <a href='#'>
                             About
                         </a>
                     </div>
 
                     <div>
-                        <a>
+                        <a href='#'>
                             Menu
                         </a>
                     </div>
 
                     <div>
-                        <a>
+                        <a href='#'>
                             Events
                         </a>
                     </div>
 
                     <div>
-                        <a>
+                        <a href='#'>
                             Chefs
                         </a>
                     </div>
 
                     <div>
-                        <a>
+                        <a href='#'>
                             Gallery
                         </a>
                     </div>
 
                     <div className='drop'>
-                        <a>DropDown</a>
+                        <a href='#'>DropDown</a>
                         <div className='dropdown'>
                             <div>
-                                <a>DropDown 1</a>
+                                <a href='#'>DropDown 1</a>
                             </div>
 
                             <div>
-                                <a> DropDown 2</a>
+                                <a href='#'> DropDown 2</a>
                             </div>
 
                             <div className='deep'>
-                                <a> DeepDropDown</a>
+                                <a href='#'> DeepDropDown</a>
                                 <div className='deepdown'>
                                     <div>
-                                        <a> DeepDropDown 1</a>
+                                        <a href='#'> DeepDropDown 1</a>
                                     </div>
 
                                     <div>
-                                        <a>DeepDropDown 2</a>
+                                        <a href='#'>DeepDropDown 2</a>
                                     </div>
 
                                 </div>
@@ -81,19 +81,19 @@ const Nav = () => {
                             </div>
 
                             <div>
-                                <a> DropDown 3</a>
+                                <a href='#'> DropDown 3</a>
                             </div>
 
 
                             <div>
-                                <a>DropDown 4</a>
+                                <a href='#'>DropDown 4</a>
                             </div>
                         </div>
 
                     </div>
 
                     <div>
-                        <a>
+                        <a href='#'>
                             Contact
                         </a>
                     </div>
@@ -115,61 +115,61 @@ const Nav = () => {
 
                     <div className='navcol2'>
                         <div>
-                            <a id='home'>
+                            <a href='#' id='home'>
                                 Home
                             </a>
                         </div>
 
                         <div>
-                            <a>
+                            <a href='#'>
                                 About
                             </a>
                         </div>
 
                         <div>
-                            <a>
+                            <a href='#'>
                                 Menu
                             </a>
                         </div>
 
                         <div>
-                            <a>
+                            <a href='#'>
                                 Events
                             </a>
                         </div>
 
                         <div>
-                            <a>
+                            <a href='#'>
                                 Chefs
                             </a>
                         </div>
 
                         <div>
-                            <a>
+                            <a href='#'>
                                 Gallery
                             </a>
                         </div>
 
                         <div className='drop'>
-                            <a>DropDown</a>
+                            <a href='#'>DropDown</a>
                             <div className='dropdown'>
                                 <div>
-                                    <a>DropDown 1</a>
+                                    <a href='#'>DropDown 1</a>
                                 </div>
 
                                 <div>
-                                    <a> DropDown 2</a>
+                                    <a href='#'> DropDown 2</a>
                                 </div>
 
                                 <div className='deep'>
-                                    <a> DeepDropDown</a>
+                                    <a href='#'> DeepDropDown</a>
                                     <div className='deepdown'>
                                         <div>
-                                            <a> DeepDropDown 1</a>
+                                            <a href='#'> DeepDropDown 1</a>
                                         </div>
 
                                         <div>
-                                            <a>DeepDropDown 2</a>
+                                            <a href='#'>DeepDropDown 2</a>
                                         </div>
 
                                     </div>
@@ -178,19 +178,19 @@ const Nav = () => {
                                 </div>
 
                                 <div>
-                                    <a> DropDown 3</a>
+                                    <a href='#'> DropDown 3</a>
                                 </div>
 
 
                                 <div>
-                                    <a>DropDown 4</a>
+                                    <a href='#'>DropDown 4</a>
                                 </div>
                             </div>
 
                         </div>
 
                         <div>
-                            <a>
+                            <a href='#'>
                                 Contact
                             </a>
                         </div>
