@@ -1,0 +1,208 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+@media(min-width:1000px){
+
+    
+.footcon {
+
+    padding: 4% 8% 4% 8%;
+
+    background-color: black;
+    color: white;
+
+    .footrow1{
+        padding: 4% 0%;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        display: flex;
+        justify-content: space-between;
+
+        .footcol1{
+            width: 85%;
+            display: flex;
+
+            .footcard{
+                width:30%;
+                display: flex;
+                // justify-content: space-between;
+
+                .footicons{
+                    width:20%;
+                    color:#ffffffb3;
+                    .ficon{
+                        width: 100%;
+                    }
+                }
+
+                .footdetails{
+                    width:70%
+
+                    h3{
+                        color:white;
+                        font-size: 16px;
+                        // padding-bottom: 10px;
+                    }
+
+                    p{
+                        color:#ffffffb3;
+                        padding-top: 5px;
+                        font-size: 14px;
+                    }
+                }
+            }
+
+        }
+
+        .footcol2{
+            width:15%;
+
+            h3{
+                padding-bottom: 10px;
+            }
+
+
+            .footicon{
+                display: flex;
+                color: #ffffffb3;
+                // justify-content: space-between;
+
+                div{
+                    width:20%;
+                    .ic{
+                        width:100%;
+                        padding:5px;
+                        //  background-color: rgba(255, 255, 255, 0.1);
+                        height:100%;
+                        align-items: center;
+
+                        font-size: 20px;
+                        display: inline-flex;
+                        border-radius: 50%;
+                        border: 2px solid rgba(255, 255, 255, 0.1);
+                    }
+                }
+            }
+        }
+    }
+
+    .footrow2{
+        padding: 4% 8%;
+        text-align: center;
+
+
+        div{
+            color:#ffffffb3;
+
+            span{
+                color:white;
+            }
+        }
+    }
+
+}
+
+}
+
+@media(max-width:940px){
+
+    
+.footcon {
+
+    padding: 4% 8% 4% 8%;
+
+    background-color: black;
+    color: white;
+
+    .footrow1{
+        padding: 4% 0%;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        // display: flex;
+        // justify-content: space-between;
+
+        .footcol1{
+            width: 100%;
+            // padding: 4% 0%;
+            
+
+            .footcard{
+                width:100%;
+                padding: 0% 0% 4% 0%;
+                display: flex;
+                // justify-content: space-between;
+
+                .footicons{
+                    width:30%;
+                    color:#ffffffb3;
+                }
+
+                .footdetails{
+                    width:70%
+
+                    h3{
+                        color:white;
+                        font-size: 16px;
+                        // padding-bottom: 10px;
+                    }
+
+                    p{
+                        color:#ffffffb3;
+                        padding-top: 5px;
+                        font-size: 14px;
+                    }
+                }
+            }
+
+        }
+
+        .footcol2{
+            width:100%;
+
+            h3{
+                padding-bottom: 10px;
+            }
+
+            .footicon{
+                display: flex;
+                color: #ffffffb3;
+                // justify-content: space-between;
+
+                div{
+                    width:20%;
+
+                    .ic{
+                        width:50%;
+                        padding:5px;
+                        //  background-color: rgba(255, 255, 255, 0.1);
+                        height:100%;
+                        align-items: center;
+
+                        font-size: 20px;
+                        display: inline-flex;
+                        border-radius: 50%;
+                        border: 2px solid rgba(255, 255, 255, 0.1);
+                    }
+                }
+            }
+        }
+    }
+
+    .footrow2{
+        padding: 4% 8%;
+        text-align: center;
+        div{
+            color:#ffffffb3;
+
+            span{
+                color:white;
+            }
+        }
+    }
+
+}
+
+}

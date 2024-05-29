@@ -1,0 +1,26 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.Gallerycon{
+    width:90%;
+    margin: auto;
+    height:50%;
+    padding: 20px;
+
+    .galleryimg{
+        width:30%;
+        padding: 10px;
+        justify-content: space-between;
+
+        img{
+            width:100%;
+        }
+    }
+}
+
+.slick-dots {
+    color:red;
+}
