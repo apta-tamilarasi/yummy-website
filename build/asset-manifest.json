@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da31bab5.css",
+    "main.js": "/static/js/main.ea8f8b1c.js",
+    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
+    "static/media/food.jpg": "/static/media/food.80e2264dc486d45b803e.jpg",
+    "static/media/events-2.jpg": "/static/media/events-2.61dd17a356acc978f4f2.jpg",
+    "static/media/events-1.jpg": "/static/media/events-1.75532e1d6a49c0b55dfd.jpg",
+    "static/media/food.png": "/static/media/food.c2d55dfac66bc8e9a970.png",
+    "static/media/menu-item-1.png": "/static/media/menu-item-1.c2d55dfac66bc8e9a970.png",
+    "static/media/menu-item-2.png": "/static/media/menu-item-2.cb0f07eb72252071866d.png",
+    "static/media/menu-item-3.png": "/static/media/menu-item-3.ac4d732dc1bea2fb0ed2.png",
+    "static/media/res1.jpg": "/static/media/res1.14937b5ba83cf6704df2.jpg",
+    "static/media/menu-item-4.png": "/static/media/menu-item-4.237c791344980563c969.png",
+    "static/media/reservation.jpg": "/static/media/reservation.decd3463f3ea65f52bb9.jpg",
+    "static/media/menu-item-6.png": "/static/media/menu-item-6.c2e0fe5a862742abd382.png",
+    "static/media/res.jpg": "/static/media/res.a547d8e78393bae9e926.jpg",
+    "static/media/menu-item-5.png": "/static/media/menu-item-5.dcfe20244e7538076d5c.png",
+    "static/media/events-3.jpg": "/static/media/events-3.c03388241371717d6124.jpg",
+    "static/media/chefs-2.jpg": "/static/media/chefs-2.f7b230cf6435b83dd8e0.jpg",
+    "static/media/chefs-3.jpg": "/static/media/chefs-3.8160a024459418d24549.jpg",
+    "static/media/chefs-1.jpg": "/static/media/chefs-1.6e592875a6ca31b980b0.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.da31bab5.css.map": "/static/css/main.da31bab5.css.map",
+    "main.ea8f8b1c.js.map": "/static/js/main.ea8f8b1c.js.map",
+    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da31bab5.css",
+    "static/js/main.ea8f8b1c.js"
+  ]
+}
