@@ -70,7 +70,7 @@ const Menu = () => {
 
 
     return <section>
-        <div className='menucon'>
+        <div className='menucon' id='menu'>
             <div className='menurow1'>
                 <div className='menucol1'>
                     <h4>
@@ -89,15 +89,15 @@ const Menu = () => {
                     </div>
 
                     <div id='break'>
-                        <a href='#'>Breakfast</a>
+                        <a href='#menu'>Breakfast</a>
                     </div>
 
                     <div id='lunch' >
-                        <a href='#'>Lunch</a>
+                        <a href='#menu'>Lunch</a>
                     </div>
 
                     <div id='dinner'>
-                        <a href='#'>Dinner</a>
+                        <a href='#menu'>Dinner</a>
                     </div>
                 </div>
 
